@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/f8dc61951b4f436f94f2b478c17a985a/artifacts
+end_time: 1750297642092
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: f8dc61951b4f436f94f2b478c17a985a
+run_name: Random Forest Regressor
+run_uuid: f8dc61951b4f436f94f2b478c17a985a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297641762
+status: 3
+tags: []
+user_id: Unique

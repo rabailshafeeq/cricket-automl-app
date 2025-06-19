@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/0f8fe04bc23e418e86901edb436051e7/artifacts
+end_time: 1750297725791
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 0f8fe04bc23e418e86901edb436051e7
+run_name: Ridge Regression
+run_uuid: 0f8fe04bc23e418e86901edb436051e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297725523
+status: 3
+tags: []
+user_id: Unique

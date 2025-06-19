@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/8f3e4e18cfaf4ef5b6240283d836227d/artifacts
+end_time: 1750297704482
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 8f3e4e18cfaf4ef5b6240283d836227d
+run_name: Session Initialized fe7b
+run_uuid: 8f3e4e18cfaf4ef5b6240283d836227d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297609950
+status: 3
+tags: []
+user_id: Unique

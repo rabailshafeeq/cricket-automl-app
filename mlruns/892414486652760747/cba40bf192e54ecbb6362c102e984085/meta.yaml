@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/cba40bf192e54ecbb6362c102e984085/artifacts
+end_time: 1750297722859
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: cba40bf192e54ecbb6362c102e984085
+run_name: Gradient Boosting Regressor
+run_uuid: cba40bf192e54ecbb6362c102e984085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297722572
+status: 3
+tags: []
+user_id: Unique

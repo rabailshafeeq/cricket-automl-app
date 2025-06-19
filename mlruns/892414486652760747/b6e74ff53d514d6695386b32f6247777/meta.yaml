@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/b6e74ff53d514d6695386b32f6247777/artifacts
+end_time: 1750297727919
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: b6e74ff53d514d6695386b32f6247777
+run_name: Elastic Net
+run_uuid: b6e74ff53d514d6695386b32f6247777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297727567
+status: 3
+tags: []
+user_id: Unique

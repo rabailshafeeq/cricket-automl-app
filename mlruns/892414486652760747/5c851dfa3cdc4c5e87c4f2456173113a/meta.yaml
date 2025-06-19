@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/5c851dfa3cdc4c5e87c4f2456173113a/artifacts
+end_time: 1750297642923
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 5c851dfa3cdc4c5e87c4f2456173113a
+run_name: AdaBoost Regressor
+run_uuid: 5c851dfa3cdc4c5e87c4f2456173113a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297642634
+status: 3
+tags: []
+user_id: Unique

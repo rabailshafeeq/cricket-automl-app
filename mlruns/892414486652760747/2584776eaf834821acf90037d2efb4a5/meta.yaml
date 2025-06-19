@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/2584776eaf834821acf90037d2efb4a5/artifacts
+end_time: 1750297722435
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 2584776eaf834821acf90037d2efb4a5
+run_name: Light Gradient Boosting Machine
+run_uuid: 2584776eaf834821acf90037d2efb4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297721714
+status: 3
+tags: []
+user_id: Unique

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/b22d4532f5904738b5d5d9819e998343/artifacts
+end_time: 1750297727352
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: b22d4532f5904738b5d5d9819e998343
+run_name: Huber Regressor
+run_uuid: b22d4532f5904738b5d5d9819e998343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297727097
+status: 3
+tags: []
+user_id: Unique

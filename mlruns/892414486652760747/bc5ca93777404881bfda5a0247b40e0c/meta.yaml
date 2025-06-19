@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/bc5ca93777404881bfda5a0247b40e0c/artifacts
+end_time: 1750297645334
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: bc5ca93777404881bfda5a0247b40e0c
+run_name: Least Angle Regression
+run_uuid: bc5ca93777404881bfda5a0247b40e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297645055
+status: 3
+tags: []
+user_id: Unique

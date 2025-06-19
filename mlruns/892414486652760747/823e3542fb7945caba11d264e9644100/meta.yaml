@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/823e3542fb7945caba11d264e9644100/artifacts
+end_time: 1750297643339
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 823e3542fb7945caba11d264e9644100
+run_name: Bayesian Ridge
+run_uuid: 823e3542fb7945caba11d264e9644100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297643024
+status: 3
+tags: []
+user_id: Unique

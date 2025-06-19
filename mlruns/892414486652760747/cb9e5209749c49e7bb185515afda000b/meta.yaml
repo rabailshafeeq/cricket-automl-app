@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/cb9e5209749c49e7bb185515afda000b/artifacts
+end_time: 1750297725388
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: cb9e5209749c49e7bb185515afda000b
+run_name: Linear Regression
+run_uuid: cb9e5209749c49e7bb185515afda000b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297725093
+status: 3
+tags: []
+user_id: Unique

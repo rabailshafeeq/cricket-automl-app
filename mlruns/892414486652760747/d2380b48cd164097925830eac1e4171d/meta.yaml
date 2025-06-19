@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/d2380b48cd164097925830eac1e4171d/artifacts
+end_time: 1750297729430
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: d2380b48cd164097925830eac1e4171d
+run_name: Orthogonal Matching Pursuit
+run_uuid: d2380b48cd164097925830eac1e4171d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297729040
+status: 3
+tags: []
+user_id: Unique

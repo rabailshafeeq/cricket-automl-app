@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/d9616c6bdd0d4d20ac650e1b6ac9a081/artifacts
+end_time: 1750297728897
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: d9616c6bdd0d4d20ac650e1b6ac9a081
+run_name: K Neighbors Regressor
+run_uuid: d9616c6bdd0d4d20ac650e1b6ac9a081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297728562
+status: 3
+tags: []
+user_id: Unique

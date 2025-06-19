@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/2d7b7bffa0b047ea856426fe35d4f961/artifacts
+end_time: 1750297726572
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 2d7b7bffa0b047ea856426fe35d4f961
+run_name: Lasso Least Angle Regression
+run_uuid: 2d7b7bffa0b047ea856426fe35d4f961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297726317
+status: 3
+tags: []
+user_id: Unique

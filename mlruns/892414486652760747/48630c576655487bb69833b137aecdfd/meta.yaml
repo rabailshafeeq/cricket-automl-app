@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/48630c576655487bb69833b137aecdfd/artifacts
+end_time: 1750297724109
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 48630c576655487bb69833b137aecdfd
+run_name: Decision Tree Regressor
+run_uuid: 48630c576655487bb69833b137aecdfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297723851
+status: 3
+tags: []
+user_id: Unique

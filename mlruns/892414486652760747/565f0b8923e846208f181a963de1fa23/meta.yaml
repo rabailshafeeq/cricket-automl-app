@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/565f0b8923e846208f181a963de1fa23/artifacts
+end_time: 1750297647815
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 565f0b8923e846208f181a963de1fa23
+run_name: Dummy Regressor
+run_uuid: 565f0b8923e846208f181a963de1fa23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297647562
+status: 3
+tags: []
+user_id: Unique

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/CricketScorePredictor/mlruns/892414486652760747/19d4054a8b9d41ac8c2cb1e6704337eb/artifacts
+end_time: 1750297646601
+entry_point_name: ''
+experiment_id: '892414486652760747'
+lifecycle_stage: active
+run_id: 19d4054a8b9d41ac8c2cb1e6704337eb
+run_name: Passive Aggressive Regressor
+run_uuid: 19d4054a8b9d41ac8c2cb1e6704337eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297646231
+status: 3
+tags: []
+user_id: Unique
